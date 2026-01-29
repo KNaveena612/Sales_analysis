@@ -74,8 +74,8 @@ Feel free to fork this repo, make improvements, and submit a pull request. Ideas
 This project is open-source under the MIT License. Use it freely for learning.
 
 ## Contact
-- GitHub: [yourusername](https://github.com/yourusername)
-- Email: your.email@example.com (optional)
+- GitHub: https://github.com/KNaveena612
+- Email: myselfsknaveena@gmail.com
 
 ---
 *Built as a beginner project. Inspired by common data analysis tutorials.*
